@@ -1,0 +1,9 @@
+C:\Users\juanp\source\repos\EntidadesModeloSegundoParcial\bin\Debug\EntidadesModeloSegundoParcial.dll
+C:\Users\juanp\source\repos\EntidadesModeloSegundoParcial\bin\Debug\EntidadesModeloSegundoParcial.pdb
+C:\Users\juanp\source\repos\EntidadesModeloSegundoParcial\bin\Debug\Interfaces.dll
+C:\Users\juanp\source\repos\EntidadesModeloSegundoParcial\bin\Debug\Interfaces.pdb
+C:\Users\juanp\source\repos\EntidadesModeloSegundoParcial\obj\Debug\EntidadesModeloSegundoParcial.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\EntidadesModeloSegundoParcial\obj\Debug\EntidadesModeloSegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\EntidadesModeloSegundoParcial\obj\Debug\EntidadesModeloSegundoParcial.csproj.CopyComplete
+C:\Users\juanp\source\repos\EntidadesModeloSegundoParcial\obj\Debug\EntidadesModeloSegundoParcial.dll
+C:\Users\juanp\source\repos\EntidadesModeloSegundoParcial\obj\Debug\EntidadesModeloSegundoParcial.pdb
