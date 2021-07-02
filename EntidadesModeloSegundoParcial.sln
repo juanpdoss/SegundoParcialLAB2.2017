@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesModeloSegundoParcial", "EntidadesModeloSegundoParcial.csproj", "{5DFD7D47-CE8B-417C-A3D5-8BA48D18FA2E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesModeloSegundoParcial", "Entidades\EntidadesModeloSegundoParcial.csproj", "{5DFD7D47-CE8B-417C-A3D5-8BA48D18FA2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "..\Interfaces\Interfaces.csproj", "{08C43C12-1D3D-4A7E-B242-F10056E07E14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormularioChiquito", "FormularioChiquito\FormularioChiquito.csproj", "{596D3255-4AD2-4277-AE11-5C1277992B03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormularioChiquito", "..\FormularioChiquito\FormularioChiquito.csproj", "{179F55E8-37D9-4E4B-9021-AEFC94AE1E8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{08C43C12-1D3D-4A7E-B242-F10056E07E14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{5DFD7D47-CE8B-417C-A3D5-8BA48D18FA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DFD7D47-CE8B-417C-A3D5-8BA48D18FA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DFD7D47-CE8B-417C-A3D5-8BA48D18FA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596D3255-4AD2-4277-AE11-5C1277992B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596D3255-4AD2-4277-AE11-5C1277992B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596D3255-4AD2-4277-AE11-5C1277992B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596D3255-4AD2-4277-AE11-5C1277992B03}.Release|Any CPU.Build.0 = Release|Any CPU
 		{08C43C12-1D3D-4A7E-B242-F10056E07E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{08C43C12-1D3D-4A7E-B242-F10056E07E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08C43C12-1D3D-4A7E-B242-F10056E07E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08C43C12-1D3D-4A7E-B242-F10056E07E14}.Release|Any CPU.Build.0 = Release|Any CPU
-		{179F55E8-37D9-4E4B-9021-AEFC94AE1E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{179F55E8-37D9-4E4B-9021-AEFC94AE1E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{179F55E8-37D9-4E4B-9021-AEFC94AE1E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{179F55E8-37D9-4E4B-9021-AEFC94AE1E8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

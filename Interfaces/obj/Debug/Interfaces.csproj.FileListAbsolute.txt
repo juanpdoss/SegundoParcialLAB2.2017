@@ -1,0 +1,6 @@
+C:\Users\juanp\source\repos\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\juanp\source\repos\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\juanp\source\repos\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\juanp\source\repos\Interfaces\obj\Debug\Interfaces.pdb
